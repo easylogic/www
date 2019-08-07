@@ -1,3 +1,1 @@
-# Easylogic Gradient 
-
-New Patterns of CSS Gradient 
+# Easylogic Studio manual site  
