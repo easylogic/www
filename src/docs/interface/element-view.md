@@ -18,7 +18,7 @@ Currently only one ArtBoard can be in the ElementView.
 :::
 
 ::: tip
-The behavior after selection can be found in <a href="/docs/basics/selecting-layers.html" target="_fff">[Selecting Layers]</a>
+The behavior after selection can be found in <a href="/docs/basics/selecting-layers" target="_fff">[Selecting Layers]</a>
 :::
 
 ### scroll

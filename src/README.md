@@ -5,14 +5,14 @@ pageClass: custom-page-class
 footer: Ⓒ 2019 easylogic<cyberuls@gmail.com> 
 ---
 
-<h1>Fantastic CSS+SVG Design Tool</h1>
+<h1>Fantastic Web Design Tool</h1>
 
 <div class='editor-image'>
     <img src='/images/editor.png' />
 </div>
 
 <div class='getting-started'>
-    <a href='/docs/getting-started.html'>Getting Started</a>
+    <a href='/docs/getting-started'>Getting Started</a>
     <a href='https://editor.easylogic.studio' target='_css_editor'>Try it now</a>
 </div>
 

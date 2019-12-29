@@ -7,7 +7,7 @@ module.exports = {
   dest: './docs',
   ga: 'UA-139740394-1',
   title: 'Easylogic',
-  description: 'Fantastic CSS+SVG Design Tool',
+  description: 'Fantastic Web Design Tool',
   head: [
 
     [
@@ -27,7 +27,7 @@ module.exports = {
     ['meta', { name: 'description', content: 'You can make simply web with CSS + SVG editor. ' }],
     ['meta', { name: 'keywords', content: 'html5,css,svg,editor' }],
     ['meta', { name: 'author', content: 'easylogic' }],
-    ['meta', { name: 'og:title', content: 'Fantastic CSS+SVG Design Tool' }],
+    ['meta', { name: 'og:title', content: 'Fantastic Web Design Tool' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:description', content: 'You can make simply web with CSS + SVG editor. ' }],
     ['meta', { name: 'og:url', content: 'https://www.easylogic.studio' }],
@@ -35,7 +35,7 @@ module.exports = {
 
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:url', content: 'https://www.easylogic.studio' }],
-    ['meta', { name: 'twitter:title', content: 'Fantastic CSS+SVG Design Tool' }],
+    ['meta', { name: 'twitter:title', content: 'Fantastic Web Design Tool' }],
     ['meta', { name: 'twitter:description', content: 'You can make simply web with CSS + SVG editor. ' }],
     ['meta', { name: 'twitter:image', content: 'https://www.easylogic.studio/images/editor.png' }],
     ['link', { rel: 'icon', href: '/images/icon32.png' }]

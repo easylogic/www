@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
@@ -18,8 +15,8 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
-    "autoprefixer": "^9.4.2",
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "autoprefixer": "^9.7.3",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.7.0"
   }
