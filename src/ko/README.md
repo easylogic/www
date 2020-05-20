@@ -5,15 +5,16 @@ pageClass: custom-page-class
 footer: Ⓒ 2020 easylogic<cyberuls@gmail.com> 
 ---
 
+
 <h1>Fantastic Web Design Tool</h1>
 
 <div class='editor-image'>
-    <img src='/images/editor.png' />
+    <img src='/images/editor-ko.png' />
 </div>
 
 <div class='getting-started'>
-    <a href='/docs/getting-started'>Getting Started</a>
-    <a href='https://editor.easylogic.studio' target='_css_editor'>Try it now</a>
+    <a href='/docs/getting-started'>배우기</a>
+    <a href='https://editor.easylogic.studio' target='_css_editor'>실행</a>
 </div>
 
 <div class='editor-summary'>
@@ -117,3 +118,4 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
 
 <div class='editor-assets'>
 </div>
+
