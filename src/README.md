@@ -18,10 +18,7 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
 
 <div class='editor-summary'>
     <div class='list'>        
-        <div class='item'>
-            <div class='img'>
-                <img src='/images/editor/css-style.png' />
-            </div>                    
+        <div class='item'>     
             <div class='content'>
                 <div class='title'>CSS Style Editor</div>
                 <div class='description'>
@@ -30,10 +27,7 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
                 </div>
             </div>
         </div>
-        <div class='item'>       
-            <div class='img'>
-                <img src='/images/editor/css-transform.png' />
-            </div>                 
+        <div class='item'>                
             <div class='content'>
                 <div class='title'>Simple Transform UI</div>
                 <div class='description'>
@@ -43,37 +37,25 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
                 </div>
             </div>
         </div>        
-        <div class='item'>
-            <div class='img'>
-                <img src='/images/editor/svg-path-editor.png' />
-            </div>                      
+        <div class='item'>                 
             <div class='content'>
                 <div class='title'>Mini SVG Editor</div>
                 <div class='description'>It provides a simple Path and Polygon editor, and can produce simple SVG images on its own. It also provides tools to make star shapes easier.</div>
             </div>
         </div>        
-        <div class='item'>
-            <div class='img'>
-                <img src='/images/editor/css-animation.png' />
-            </div>        
+        <div class='item'>   
             <div class='content'>
                 <div class='title'>Animation Tool</div>
                 <div class='description'>It supports tools to create transitions and keyframe animations.<br /> Support for various internal editors for individual CSS elements when specifying keyframes. Let's also adjust the timing easily through the cubic-bezier editor.</div>
             </div>
         </div>
-        <div class='item'>
-            <div class='img full'>
-                <img src='/images/editor/svgfilter.png' />
-            </div>        
+        <div class='item'>     
             <div class='content'>
                 <div class='title'>Asset Manager</div>
                 <div class='description'>Individual elements used in the design can be recycled back to the asset. Color, Gradient, SVGFilter, and Image are supported.</div>
             </div> 
         </div>
-        <div class='item'>
-            <div class='img full'>
-                <img src='/images/editor/timeline.png' />
-            </div>        
+        <div class='item'>    
             <div class='content'>
                 <div class='title'>Timeline</div>
                 <div class='description'>Support timeline animation with js animation player. It supports <a href='https://github.com/easylogic/anipa' target='_anipa'>anipa</a> animation library. </div>
@@ -83,7 +65,7 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
             <div class='content'>        
                 <div class='title'>Export Code</div>
                 <div class='description'>Everything on the screen consists of CSS and SVG code. You can also output directly to HTML/CSS or CodePen. Exported code includes timeline animation player.</div>
-            </div>
+            </div> 
         </div>        
         <div class='item'>
             <div class='content'>                
