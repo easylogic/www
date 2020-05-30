@@ -1,8 +1,12 @@
-# Keyframes & Animations
+# 키프레임과 애니메이션
 
-Keyframe animation is supported.
+CSS 의 keyframes 와 animation 기능을 지원합니다. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZRjxQwiHx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+아래 동영상을 한번 봐주세요. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_YXay3d_c9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://youtu.be/_YXay3d_c9E" target='_youtube'>Youtube</a>
 
 ### Keyframes 
 
