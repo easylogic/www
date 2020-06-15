@@ -194,7 +194,7 @@ module.exports = {
 
                 'getting-started',
                 {
-                    title: 'Interface',
+                    title: 'UI 인터페이스',
                     collapsable: false,
                     children: [
                         'interface/layer-list',
@@ -205,7 +205,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Basics',
+                    title: '레이어 기본',
                     collapsable: false,
                     children: [
                         'basics/layer',
@@ -217,7 +217,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Vector Tool',
+                    title: '벡터 툴',
                     collapsable: false,
                     children: [
                         'vector-tool/path',
@@ -226,7 +226,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Grouping',
+                    title: '그룹',
                     collapsable: false,
                     children: [ 
                         'grouping-layers/projects',
@@ -235,7 +235,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Styling',
+                    title: '스타일',
                     collapsable: false,
                     children: [
                         'styling/colors',
@@ -250,7 +250,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'CSS Transition & Animation',
+                    title: 'CSS Transition과 Animation',
                     collapsable: false,
                     children: [
                         'animation/transitions',
@@ -259,7 +259,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Timeline Animation',
+                    title: '타임라인 애니메이션',
                     collapsable: false,
                     children: [
                         'timeline/animation-list',
@@ -273,7 +273,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Exporting',
+                    title: '내보내기',
                     collapsable: false,
                     children: [
                         'exporting/default',
@@ -282,7 +282,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Importing',
+                    title: '객체 추가하기',
                     collapsable: false,
                     children: [
                         'importing/image',
@@ -290,7 +290,7 @@ module.exports = {
                     ]
                 },                
                 {
-                    title: 'Assets',
+                    title: '에셋관리',
                     collapsable: false,
                     children: [
                         'assets/color',

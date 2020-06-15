@@ -1,19 +1,21 @@
-# Layers
+# 레이어
 
-layer is a drawing object. layer corresponds to a div or other element in html.
+레이어는 그리기 객체입니다. 그리기 객체는 모두 html 태그 형태로 이루어져 있습니다. 
 
 <img src='/images/editor/layer-list.png' style='max-width: 300px' />
 
-### Project
+### 프로젝트(Project)
 
-Project is a managed object that can contain various ArtBoards. It is not displayed on the screen. It is only used to store assets or other settings that can be used by multiple ArtBoards.
+프로젝트는 화면에 그려지지는 않지만 아트보드를 관리합니다. 여러 아트보드에서 사용될 애셋과 여러 셋팅들을 관리합니다. 
 
-### ArtBoard
+### 아트보드(ArtBoard)
 
-It is a basic board for drawing on the screen. One or more layers are added here.
+기본 그리기 객체 중에 하나 입니다. 여러가지 레이어들이 아트보드 안에서 그려집니다. 
 
-### Layer Tree
+### 레이어 트리 
 
-Show a list of nestable layers. You can delete, show and select individual layers.
+레이어트리는 중첩된 형태의 레이어 리스트를 보여줍니다. 
 
-Clicking on a layer makes it selected and you can also check the selected state in ElementView
+추가, 삭제, 선택 등  레이어를 관리할 수 있게 해줍니다. 
+
+트리에서 레이어 아이템을 클릭해서 선택을 하게 되면  그리기 화면위에 선택된 상태를 보여줍니다. 
