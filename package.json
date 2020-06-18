@@ -15,10 +15,10 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.2.0",
-    "autoprefixer": "^9.7.3",
+    "@vuepress/plugin-google-analytics": "^1.5.2",
+    "autoprefixer": "^9.8.0",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.7.0",
-    "vuepress": "^1.5.0"
+    "vuepress": "^1.5.2"
   }
 }

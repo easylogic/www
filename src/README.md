@@ -14,6 +14,7 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
 <div class='getting-started'>
     <a href='/docs/getting-started'>Getting Started</a>
     <a href='https://editor.easylogic.studio' target='_css_editor'>Try it now</a>
+    <a href="https://www.producthunt.com/posts/easylogic-studio?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-easylogic-studio" class='none-style' target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=155951&theme=light" alt="EasyLogic Studio - css, svg, editor, timeline, open source | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
 
 <div class='editor-summary'>
