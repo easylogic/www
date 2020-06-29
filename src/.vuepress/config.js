@@ -23,6 +23,25 @@ module.exports = {
     }(window,document,'script','cc474308-b29c-af41-7393-409d285dca6e'));
   `
     ],
+    [
+      'script',
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=UA-139740394-1"
+      }
+    ],
+    [
+      'script',
+      {},
+      `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-139740394-1');
+      `
+
+    ],
 
     ['meta', { name: 'description', content: 'You can make simply web with CSS + SVG editor. ' }],
     ['meta', { name: 'keywords', content: 'html5,css,svg,editor' }],
@@ -58,5 +77,13 @@ module.exports = {
     locales: themeLocales,
     sidebarDepth: 2
 
-  }
+  },
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-139740394-1' // UA-00000000-0
+      }
+    ]
+  ]
 } 
