@@ -32,6 +32,14 @@ module.exports = {
     ],
     [
       'script',
+      {
+        "data-ad-client": "ca-pub-9166386451361987",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      }
+    ],    
+    [
+      'script',
       {},
       `
         window.dataLayer = window.dataLayer || [];

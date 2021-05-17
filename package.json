@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "npm run copy:resource && vuepress dev src",
+    "build": "npm run copy:resource && vuepress build src",
+    "copy:resource" : "npm run copy:gradient",
+    "copy:gradient": "mkdir -p src/.vuepress/public/gradient && cp -R gradient/docs/* src/.vuepress/public/gradient"
   },
   "repository": {
     "type": "git",
