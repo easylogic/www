@@ -45,14 +45,20 @@ $codeBgColor = #282c34
     background-color: black;
     // background-image: linear-gradient(135deg, #e66969, #245e90, #751010);
 
+    .dropdown-wrapper .nav-dropdown 
+
 
     .dropdown-wrapper .nav-dropdown {
         a { 
-            color: #1770d9;
+            color: white;
 
             &:hover {
-                color: #1770d9; 
+                color: white; 
             }
+        }
+
+        .dropdown-item a.router-link-active::after {
+            border-left-color: white;
         }
     }
 

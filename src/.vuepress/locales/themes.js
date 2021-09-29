@@ -16,7 +16,7 @@ module.exports = {
                 items: [
                     {
                         text: 'Sapa',
-                        link: 'https://github.com/easylogic/sapa/'
+                        link: 'https://sapa.easylogic.studio/'
                     }, 
                     {
                         text: 'Anipa',
@@ -24,11 +24,11 @@ module.exports = {
                     },                     
                     {
                         text: 'ColorPicker',
-                        link: 'https://colorpicker.easylogic.studio/colorpicker/'
+                        link: 'https://colorpicker.easylogic.studio/'
                     }, 
                     {
                         text: 'Gradient',
-                        link: 'https://colorpicker.easylogic.studio/gradient/'
+                        link: 'https://gradient.easylogic.studio/'
                     }
                 ]
             }           
@@ -39,14 +39,13 @@ module.exports = {
 
                 'getting-started',
                 {
-                    title: 'Interface',
+                    title: 'Editor',
                     collapsable: false,
                     children: [
                         'interface/layer-list',
-                        'interface/element-view',
+                        'interface/canvas',
                         'interface/inspector',
                         'interface/toolbar',
-                        'interface/timeline'
                     ]
                 },
                 {
@@ -171,7 +170,7 @@ module.exports = {
                 items: [
                     {
                         text: 'Sapa',
-                        link: 'https://github.com/easylogic/sapa/'
+                        link: 'https://sapa.easylogic.studio/'
                     }, 
                     {
                         text: 'Anipa',
@@ -179,11 +178,11 @@ module.exports = {
                     },                     
                     {
                         text: 'ColorPicker',
-                        link: 'https://colorpicker.easylogic.studio/colorpicker/'
+                        link: 'https://colorpicker.easylogic.studio/'
                     }, 
                     {
                         text: 'Gradient',
-                        link: 'https://colorpicker.easylogic.studio/gradient/'
+                        link: 'https://gradient.easylogic.studio/'
                     }
                 ]
             }           
@@ -194,14 +193,13 @@ module.exports = {
 
                 'getting-started',
                 {
-                    title: 'UI 인터페이스',
+                    title: '에디터',
                     collapsable: false,
                     children: [
                         'interface/layer-list',
-                        'interface/element-view',
+                        'interface/canvas',
                         'interface/inspector',
                         'interface/toolbar',
-                        'interface/timeline'
                     ]
                 },
                 {

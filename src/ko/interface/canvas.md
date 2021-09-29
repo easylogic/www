@@ -2,7 +2,7 @@
 
 This is where the elements are actually drawn. Because it's a css-based tool, you can generate code as you see it.
 
-<img src='/images/editor/element-view.png' />
+<img src='/images/editor/canvas.png' />
 
 ### Rendering Layer
 

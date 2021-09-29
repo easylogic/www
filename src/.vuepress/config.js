@@ -58,13 +58,13 @@ module.exports = {
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:description', content: 'You can make simply web with CSS + SVG editor. ' }],
     ['meta', { name: 'og:url', content: 'https://www.easylogic.studio' }],
-    ['meta', { name: 'og:image', content: 'https://www.easylogic.studio/images/editor.png' }],
+    ['meta', { name: 'og:image', content: 'https://www.easylogic.studio/images/editor3.png' }],
 
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:url', content: 'https://www.easylogic.studio' }],
     ['meta', { name: 'twitter:title', content: 'Fantastic Web Design Tool' }],
     ['meta', { name: 'twitter:description', content: 'You can make simply web with CSS + SVG editor. ' }],
-    ['meta', { name: 'twitter:image', content: 'https://www.easylogic.studio/images/editor.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://www.easylogic.studio/images/editor3.png' }],
     ['link', { rel: 'icon', href: '/images/icon32.png' }]
   ],
   postcss: {

@@ -8,7 +8,7 @@ footer: Ⓒ 2020 easylogic<cyberuls@gmail.com>
 <h1>Fantastic Web Design Tool</h1>
 
 <div class='editor-image'>
-    <img src='/images/editor.png' />
+    <img src='/images/editor3.png' />
 </div>
 
 <div class='getting-started'>
