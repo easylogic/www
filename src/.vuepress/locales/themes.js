@@ -9,7 +9,7 @@ module.exports = {
             },
             {
                 text: 'Editor',
-                link: 'https://editor-core.easylogic.studio'
+                link: 'https://editor.easylogic.studio'
             },
             {
                 text: 'Family',
@@ -163,7 +163,7 @@ module.exports = {
             },
             {
                 text: '에디터',
-                link: 'https://editor-core.easylogic.studio'
+                link: 'https://editor.easylogic.studio'
             },
             {
                 text: '연관된 라이브러리',

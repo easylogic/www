@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev src",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build src"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.7.0",
     "vuepress": "^1.5.2"
+  },
+  "engines" : { 
+    "node" : ">=17.0.0" 
   }
 }

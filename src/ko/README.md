@@ -2,7 +2,7 @@
 home: true
 layout: false
 pageClass: custom-page-class
-footer: Ⓒ 2020 easylogic<cyberuls@gmail.com> 
+footer: Ⓒ 2020~2022 easylogic<cyberuls@gmail.com> 
 ---
 
 
